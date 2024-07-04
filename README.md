@@ -7,7 +7,7 @@ Edit, tweak at will, but please leave credit for me.
 
 # Include in your project
 In the example.cpp file or here you can see how you can implement Lapse in your project.
-´´´
+´´
 #include <thread>
 #include "lapse.h"
 
@@ -22,4 +22,4 @@ int main() {
 
     return 0;
 }
-´´´
+´´
